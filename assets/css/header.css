@@ -1,0 +1,21 @@
+.head {
+    background-color: black;
+    color: white;
+    padding: 20px;    
+    /* position: fixed; */
+
+}
+
+.logo h1{
+    display: flex;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.sitename {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    margin: 0 auto;
+    padding: 0 15px;
+}

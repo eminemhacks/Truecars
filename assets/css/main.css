@@ -1,0 +1,254 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(223, 213, 213);
+}
+
+header {
+    padding: 20px;
+}
+
+/*==================
+    Carousel styles 
+===================*/
+.carousel-item {
+    height: 100vh; /* Full screen height */
+    min-height: 500px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay for text readability */
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.hero-carousel img {
+    filter: brightness(60%);
+}
+
+/*========================
+    Hero carousel image
+==========================*/
+.hero-carousel .carousel-item img {
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    object-fit: cover;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.hero-content {
+    max-width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;   
+    padding: 0 10px;
+}
+
+.hero-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-family: 'Lucida Sans';
+}
+
+.hero-link {
+    font-size: 11px;
+    font-weight: 150;
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+}
+
+.hero-cards .card {
+    min-width: 200px;
+    text-align: center;
+}
+
+.hero-buttons .btn {
+    margin: 0 10px;
+}
+
+.search-container {
+    position: relative;
+    flex-grow: 1;
+}
+
+.search-container i {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #aaa;
+}
+
+.hero-search {
+    width: 400px;
+}
+
+.search-container input {
+    padding-left: 35px;
+    width: 100%;
+}
+
+.hero-span {
+    background: linear-gradient(60deg, #d6c39c, #cb7533);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+/* .hero-span2 {
+    color: rgb(226, 89, 89);
+}
+.hero-span3 {
+    color: rgb(74, 229, 74);
+} */
+
+/*====================
+    Icon styles 
+====================*/
+.icon {
+    font-size: 3rem;
+}
+
+.icon::before {
+    z-index: 1;
+}
+
+/* ==================
+    Card styles 
+=====================*/
+.section .card {
+    border: 1px white solid;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem; /* Scales better on smaller devices */
+}
+
+.card-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.c-img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.card-gradient {
+    background: linear-gradient(90deg, #141313, #6c3c17);
+    color: white;
+}
+.card-gradient2 {
+    background: linear-gradient(90deg, #141313, #871b1b);
+    color: white;
+}
+.card-gradient3 {
+    background: linear-gradient(90deg, #141313, #1c831c);
+    color: white;
+}
+
+/*=========================
+ Navbar button styles 
+==========================*/
+.nav-logo {
+    font-family: system-ui, sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.nav-img {
+    max-width: 70%;
+    height: auto;
+}
+
+.btn-nav {
+    color: white;
+}
+
+.btn-tool {
+    background-color: black;
+    border: black solid 2px;
+    border-radius: 20px;
+    color: white;
+}
+
+.nav-search-bar {
+    padding: 0;
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.nav-search {
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.nav-search:hover {
+    border: 2px solid blue;
+}
+
+
+
+/* On small devices, take full width */
+@media (max-width: 768px) {
+    .search-container {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .hero-title {
+        font-size: 1.8rem;
+    }
+    .hero-content {
+        padding: 0 15px;
+    }
+    .card-text {
+        font-size: 1.2rem;
+    }
+    .hero-buttons .btn {
+        margin: 5px 0;
+    }
+}
+
+/* Medium devices adjustments */
+@media (max-width: 992px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+}
+/* Large devices adjustments */
