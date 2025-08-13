@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(223, 213, 213);
+    background-color: rgba(248, 249, 250, 0.848);
 }
 
 header {
@@ -118,23 +118,20 @@ header {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-/* .hero-span2 {
-    color: rgb(226, 89, 89);
-}
-.hero-span3 {
-    color: rgb(74, 229, 74);
-} */
 
 /*====================
     Icon styles 
 ====================*/
 .icon {
     font-size: 3rem;
+    color: #3e07e2;
+    transform: scale(1.2);
 }
 
 .icon::before {
     z-index: 1;
 }
+
 
 /* ==================
     Card styles 
@@ -142,6 +139,11 @@ header {
 .section .card {
     border: 1px white solid;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card-h1 {
+    font-size: 3rem;
+    font-family: "Bauhaus 93";
 }
 
 .card-text {
@@ -160,6 +162,7 @@ header {
     height: auto;
     display: block;
     margin: 0 auto;
+    /* transform: scale(1.3); */
 }
 
 .c-img {
@@ -181,6 +184,95 @@ header {
     color: white;
 }
 
+.card-form {
+    width: 100%;
+}
+
+.card-title {
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+.card-description {
+    font-size: 1.1rem;
+    font-weight: 400;;
+}
+/* FEATURED TOOLS section improvements */
+#tools .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#tools .tool-card {
+  border: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  height: 100%;
+  transition: transform 0.2s ease-in-out;
+}
+
+#tools .tool-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Image wrapper for consistent image height */
+#tools .img-wrapper {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f5f5f5; /* neutral background if image has transparency */
+}
+
+
+#tools .card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  padding: 1rem;
+}
+
+#tools .card-body p {
+  flex-grow: 1;
+}
+
+#tools .c-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* On tablets and below */
+@media (max-width: 992px) {
+  #tools .c-img {
+    max-height: 180px;
+  }
+}
+
+/* On mobile */
+@media (max-width: 768px) {
+  #tools .c-img {
+    max-height: 150px;
+  }
+}
+
+/* MOBILE adjustments */
+@media (max-width: 768px) {
+  #tools .row {
+    gap: 1rem;
+  }
+
+  #tools .tool-card {
+    transform: none;
+    margin-bottom: 1rem;
+  }
+}
+
+
+
+
 /*=========================
  Navbar button styles 
 ==========================*/
@@ -199,11 +291,14 @@ header {
     color: white;
 }
 
-.btn-tool {
-    background-color: black;
-    border: black solid 2px;
-    border-radius: 20px;
-    color: white;
+/* Buttons */
+#tools .btn-tool {
+  background-color: black;
+  border: 2px solid black;
+  border-radius: 20px;
+  color: white;
+  padding: 0.4rem 1.2rem;
+  font-size: 0.9rem;
 }
 
 .nav-search-bar {
@@ -222,8 +317,6 @@ header {
 .nav-search:hover {
     border: 2px solid blue;
 }
-
-
 
 /* On small devices, take full width */
 @media (max-width: 768px) {
@@ -252,3 +345,148 @@ header {
     }
 }
 /* Large devices adjustments */
+
+/* ======================
+    new-card styles 
+========================*/
+.new-card {
+    padding: 40px;
+    /* border: 3px solid blue;     */
+    transition: transform 0.3s;
+    min-height: 200px;    
+}
+
+.side-card {
+    /* border: 2px solid green;   */
+    background-color: rgba(248, 249, 250, 0.848);
+    transition: transform 0.3s;
+    min-height: 150px;
+}
+
+.new-card:hover {
+    /* transform: scale(1.05); */
+}
+
+.side-card:hover {
+    /* transform: scale(1.05); */
+}
+
+.form-select {
+    border: 1px solid #151212;
+    border-radius: 5px;
+    padding: 12.5px;
+    width: 100%;
+}
+
+.form-select:focus {
+    border: 2px solid #1900ff;
+    box-shadow: 0 0 5px rgba(25, 0, 255, 0.5);
+}
+
+.form-option {
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-option:focus {
+    border: 2px solid blue;
+    border-radius: 10px;
+
+}
+
+.form-btn {
+    border: 1px solid black; 
+    border-radius: 20px; 
+    padding: 0.4rem 1.2rem; 
+    background-color: black; 
+    color: white;
+    font-size: 1.1rem;
+}
+
+.signup-btn {
+    border: 1px solid black; 
+    border-radius: 20px; 
+    padding: 0.4rem 1.2rem; 
+    background-color: white; 
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 400;    
+}
+
+.signup-btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.form-badge {
+    border: 1px solid rgb(122, 206, 235);
+    border-radius: none;
+    background-color: rgb(122, 206, 235);
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 50;
+    font-size: 0.76rem;   /* smaller text */
+    padding: 0.5em 1em; /* tighter padding */
+}
+
+input::placeholder {
+    color: #aaa;
+    position: fixed ;
+    float: inline-start;
+    font-size: small;    
+    font-style: italic;
+}
+
+
+/*====================
+    Switch input 
+=====================*/
+
+.form-check-input {
+    transform: scale(1.5);
+}
+/* Switch background when checked */
+.form-check-input:checked {
+  background-color: black;
+  border-color: black;
+}
+
+/* Optional: make the toggle circle white for contrast */
+.form-check-input:checked::before {
+  background-color: grey;
+  border-color: black;
+}
+
+.form-switch:checked::before {
+  transform: translateX(20px);
+  border-color: black;
+}
+
+.row .side-card {
+    border: none;
+    box-shadow: none;
+}
+
+/*=======================
+        Extra css
+========================= */
+.collapse {
+  &:not(.show) {
+    display: none;
+  }
+}
+
+.collapsing {
+  height: 0;
+  overflow: hidden;
+  @include transition($transition-collapse);
+
+  &.collapse-horizontal {
+    width: 0;
+    height: auto;
+    @include transition($transition-collapse-width);
+  }
+}
