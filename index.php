@@ -360,117 +360,55 @@
     </section>
 
     <!-- Shop by Brand Section -->
-  <section id="brand-section" class="d-flex flex-column justify-content-center align-items-center text-center brand-section py-5">
-    <div class="card brand-main-card d-flex flex-column align-items-center border-0 shadow-sm p-4" style="border-radius: 15px;">
+    <section id="brandSection" class="d-flex flex-column justify-content-center align-items-center text-center brand-section py-5">
+      <div class="card brand-main-card d-flex flex-column align-items-center border-0 shadow-sm p-4" style="border-radius: 15px;">
 
-      <!-- Title -->
-      <h1 class="text-center brand-section-title mb-4">Shop your favorite brand</h1>
+        <!-- Title -->
+        <h1 class="text-center brand-section-title mb-4">Shop your favorite brand</h1>
 
-      <!-- Button group -->
-      <div class="btn-group mt-3 mb-4" role="group" aria-label="Car type selector">
-        <a id="newCars" href="#car-brands" class="btn brand-btn active">New Cars</a>
-        <a id="usedCars" href="#car-brands" class="btn brand-btn">Used Cars</a>
-      </div>
+        <!-- Button group -->
+        <div class="btn-group mt-3 mb-4" role="group" aria-label="Car type selector">
+          <a id="newCars" href="#brandSection" class="btn brand-btn active" onclick="selectCarType('new')" data-bs-toggle="buttons">New Cars</a>
+          <a id="usedCars" href="#brandSection" class="btn brand-btn" onclick="selectCarType('used')" data-bs-toggle="buttons">Used Cars</a>
+        </div>
 
-      <!-- First Row -->
-      <div class="row col-12 gap-3 mt-2 justify-content-center">
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota Logo" class="brand-img">
-            <span class="mx-3 brand-span">Toyota</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/BMW.png" alt="BMW Logo" class="brand-img">
-            <span class="mx-3 brand-span">BMW</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet Logo" class="brand-img">
-            <span class="mx-3 brand-span">Chevrolet</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Honda.png" alt="Honda Logo" class="brand-img">
-            <span class="mx-3 brand-span">Honda</span>
-          </div>
-        </div>
-      </div>
+        <?php
+          include 'db_connect/db-connect.php';
 
-      <!-- Second Row -->
-      <div class="row col-12 gap-3 mt-3 justify-content-center">
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Ford.png" alt="Ford Logo" class="brand-img">
-            <span class="mx-3 brand-span">Ford</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Audi.png" alt="Audi Logo" class="brand-img">
-            <span class="mx-3 brand-span">Audi</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Acura.png" alt="Acura Logo" class="brand-img">
-            <span class="mx-3 brand-span">Acura</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai Logo" class="brand-img">
-            <span class="mx-3 brand-span">Hyundai</span>
-          </div>
-        </div>
-      </div>
+          $stmt = $pdo->query("SELECT * FROM car_images");
+          $carBrands = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        ?>
 
-      <!-- Third Row -->
-      <div class="row col-12 gap-3 mt-3 justify-content-center">
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge Logo" class="brand-img">
-            <span class="mx-3 brand-span">Dodge</span>
-          </div>
+        <div id="carBrands" class="row col-12 gap-3 mt-2 justify-content-center">
+          <?php
+            foreach ($carBrands as $row) {
+              echo '<div class="card col-2 text-center brand-card" data-name="' . htmlspecialchars($row['name']) . '">';
+              echo '<div class="card-body d-flex justify-content-center align-items-center">';
+              echo '<img src="' . htmlspecialchars($row['image_path']) . '" alt="' . htmlspecialchars($row['name']) . '" class="brand-img">';
+              echo '<span class="mx-3 brand-span">' . htmlspecialchars($row['name']) . '</span>';
+              echo '</div>';
+              echo '</div>';
+            }
+          ?>
         </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz Logo" class="brand-img">
-            <span class="mx-3 brand-span">Mercedes-Benz</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Kia.png" alt="Kia Logo" class="brand-img">
-            <span class="mx-3 brand-span">Kia</span>
-          </div>
-        </div>
-        <div class="card col-2 text-center brand-card">
-          <div class="card-body d-flex justify-content-center align-items-center">
-            <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus Logo" class="brand-img">
-            <span class="mx-3 brand-span">Lexus</span>
-          </div>
-        </div>
-      </div>
 
+        <div class="text-center">
+          <a id="seeMore" href="javascript:void(0);" class="btn drop-btn my-4"  role="button" onclick="toggleView()">
+            <span>See more
+              <i class="bi bi-arrow-down" aria-hidden="true"></i>
+            </span>
+          </a>
+        </div>
 
-      <div class="text-center">
-        <a class="btn drop-btn my-4" href="car-brands/new-cars.php#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-          <span>See more
-            <i class="bi bi-arrow-down" aria-hidden="true"></i>
-          </span>
-        </a>
-      </div>
-      <div class="d-flex flex-column justify-content-center">
-        <p class="text-justify brand-text my-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero corporis eum quo vel a veritatis officiis itaque, unde ducimus quidem.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid asperiores fuga culpa? <br>Sit perferendis assumenda reprehenderit ullam sed, facilis magni numquam odio alias tempora beatae, eveniet provident quas quo voluptate error dolorem molestiae ducimus unde minima? Laborum eius excepturi eveniet <br>nesciunt assumenda magni tempora alias dicta consequuntur tenetur? Adipisci, nulla?
-        </p>
-      </div>            
-    </div>  
-  </section>
+        <div class="d-flex flex-column justify-content-center">
+          <p class="text-justify brand-text my-3">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero corporis eum quo vel a veritatis officiis itaque, unde ducimus quidem.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid asperiores fuga culpa? <br>Sit perferendis assumenda reprehenderit ullam sed, facilis magni numquam odio alias tempora beatae, eveniet provident quas quo voluptate error dolorem molestiae ducimus unde minima? Laborum eius excepturi eveniet <br>nesciunt assumenda magni tempora alias dicta consequuntur tenetur? Adipisci, nulla?
+          </p>
+        </div>            
+      </div>  
+    </section>
+
 
 
   </main>
@@ -480,11 +418,25 @@
     </div>
   </footer>
 
+  <?php include("car-brands/car-data.php"); ?>
+  <?php include("car-brands/carBrands.php"); ?>
+
+  <script>
+    const initialCarsNew = <?php echo json_encode($newCarBrands); ?>;
+    const allCarsNew     = <?php echo json_encode($showNewCars); ?>;
+    const initialCarsUsed = <?php echo json_encode($usedCarBrands); ?>;
+    const allCarsUsed     = <?php echo json_encode($showUsedCars); ?>;
+
+    console.log(initialCarsNew, allCarsNew, initialCarsUsed, allCarsUsed);
+  </script>
+
   <!-- Bootstrap JS Bundle -->
   <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <!-- Bootstrap JS -->
-  <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  
+
+  <!-- Custom JS files -->
   <script src="assets/js/tradein.js"></script>
   <script src="assets/js/navbar.js"></script>
+  <script src="assets/js/carBrands.js"></script>
+
 </body>
 </html>
