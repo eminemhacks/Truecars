@@ -1,3 +1,6 @@
+/*====================
+    Global Styles
+====================*/
 * {
     padding: 0;
     margin: 0;
@@ -8,41 +11,49 @@ body {
     background-color: rgba(248, 249, 250, 0.848);
 }
 
+html, body { overflow-x: hidden; }
+
 header {
     padding: 20px;
 }
 
 /*==================
-    Carousel styles 
+    Header Styles
 ===================*/
+.nav-logo {
+    font-family: system-ui, sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.nav-img {
+    max-width: 70%;
+    height: auto;
+}
+
+.navbar-toggler {
+  border-color: rgba(255,255,255,0.5);
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255,255,255, 0.8%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+
+/*==================
+  Hero Section Styles
+===================*/
+
+/* Carousel styles */
 .carousel-item {
     height: 100vh; /* Full screen height */
     min-height: 500px;
-}
-
-.carousel-item img {
-    object-fit: cover;
-    height: 100%;
-    width: 100%;
 }
 
 .carousel-caption {
     background: rgba(0, 0, 0, 0.5); /* Dark overlay for text readability */
     padding: 2rem;
     border-radius: 10px;
-}
-
-.hero-carousel img {
-    filter: brightness(60%);
-}
-
-/*========================
-    Hero carousel image
-==========================*/
-.hero-carousel .carousel-item img {
-    width: 100%;
-    height: 100vh; /* Full viewport height */
-    object-fit: cover;
 }
 
 .hero-overlay {
@@ -82,68 +93,19 @@ header {
     font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
 }
 
-.hero-cards .card {
-    min-width: 200px;
-    text-align: center;
-}
 
-.hero-buttons .btn {
-    margin: 0 10px;
-}
+/*=======================
+    All card styles 
+=========================*/
 
-.search-container {
-    position: relative;
-    flex-grow: 1;
-}
-
-.search-container i {
-    position: absolute;
-    top: 50%;
-    left: 10px;
-    transform: translateY(-50%);
-    color: #aaa;
-}
-
-.hero-search {
-    width: 400px;
-}
-
-.search-container input {
-    padding-left: 35px;
-    width: 100%;
-}
-
-.hero-span {
-    background: linear-gradient(60deg, #d6c39c, #cb7533);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-/*====================
-    Icon styles 
-====================*/
-.icon {
-    font-size: 3rem;
-    color: #3e07e2;
-    transform: scale(1.2);
-}
-
-.icon::before {
-    z-index: 1;
-}
-
-
-/* ==================
-    Card styles 
-=====================*/
-.section .card {
-    border: 1px white solid;
-    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
-}
-
+/* General card styles */
 .card-h1 {
     font-size: 3rem;
     font-family: "Bauhaus 93";
+}
+
+.card-font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .card-text {
@@ -151,24 +113,21 @@ header {
     font-size: 1.5rem; /* Scales better on smaller devices */
 }
 
-.card-img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
+.card-title {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'HP Simplified Light', sans-serif;
 }
 
-.card-img-top {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    /* transform: scale(1.3); */
+.card-description {
+    font-size: 1.1rem;
+    font-weight: 500;
 }
 
-.c-img {
-    width: 100%;
-    height: 150px;
-    object-fit: contain;
+/* Hero card styles */
+.hero-cards .card {
+    min-width: 200px;
+    text-align: center;
 }
 
 .card-gradient {
@@ -184,23 +143,12 @@ header {
     color: white;
 }
 
-.card-form {
-    width: 100%;
-}
-
-.card-title {
-    font-weight: 500;
-    font-size: 1.25rem;
-}
-
-.card-description {
-    font-size: 1.1rem;
-    font-weight: 400;;
-}
-/* FEATURED TOOLS section improvements */
-#tools .row {
-  margin-left: 0;
-  margin-right: 0;
+/* Featured tools card styles */
+.tool-cards-text {
+    font-size: 1.15rem;
+    font-weight: 530;
+    font-family:Arial, Helvetica, sans-serif;    
+    opacity: 75%;
 }
 
 #tools .tool-card {
@@ -214,18 +162,6 @@ header {
   transform: translateY(-5px);
 }
 
-/* Image wrapper for consistent image height */
-#tools .img-wrapper {
-  width: 100%;
-  height: 200px;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #f5f5f5; /* neutral background if image has transparency */
-}
-
-
 #tools .card-body {
   display: flex;
   flex-direction: column;
@@ -238,129 +174,64 @@ header {
   flex-grow: 1;
 }
 
-#tools .c-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+/* Brand section card styles */
+.brand-section {    
+    padding-bottom: 30px;
 }
 
-/* On tablets and below */
-@media (max-width: 992px) {
-  #tools .c-img {
-    max-height: 180px;
-  }
+.brand-main-card {
+    border: none;
+    width: 88rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
-/* On mobile */
-@media (max-width: 768px) {
-  #tools .c-img {
-    max-height: 150px;
-  }
+.brand-card {    
+    border: none;
+    background: transparent;
+    width: 300px;
+    height: 120px;
+    transition: transform 0.2s ease-in-out;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);    
 }
 
-/* MOBILE adjustments */
-@media (max-width: 768px) {
-  #tools .row {
-    gap: 1rem;
-  }
-
-  #tools .tool-card {
-    transform: none;
-    margin-bottom: 1rem;
-  }
+.brand-card:hover {
+    transform: translateY(-5px);
 }
 
-
-
-
-/*=========================
- Navbar button styles 
-==========================*/
-.nav-logo {
-    font-family: system-ui, sans-serif;
-    font-size: 2rem;
-    font-weight: 700;
+.brand-span {
+    font-size: 1.2rem;
+    font-weight: 400;
 }
 
-.nav-img {
-    max-width: 70%;
-    height: auto;
+/* Why TrueCar? card styles */
+.center-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-cards .card {
+  min-width: 250px;
 }
 
-.btn-nav {
-    color: white;
-}
-
-/* Buttons */
-#tools .btn-tool {
-  background-color: black;
-  border: 2px solid black;
-  border-radius: 20px;
-  color: white;
-  padding: 0.4rem 1.2rem;
-  font-size: 0.9rem;
-}
-
-.nav-search-bar {
-    padding: 0;
-    border: 2px solid white;
-    border-radius: 20px;
-    width: 100%;
-    max-width: 400px;
-}
-
-.nav-search {
-    border: 1px solid white;
-    border-radius: 20px;
-}
-
-.nav-search:hover {
-    border: 2px solid blue;
-}
-
-/* On small devices, take full width */
-@media (max-width: 768px) {
-    .search-container {
-        width: 100%;
-        margin-top: 10px;
-    }
-    .hero-title {
-        font-size: 1.8rem;
-    }
-    .hero-content {
-        padding: 0 15px;
-    }
-    .card-text {
-        font-size: 1.2rem;
-    }
-    .hero-buttons .btn {
-        margin: 5px 0;
-    }
-}
-
-/* Medium devices adjustments */
-@media (max-width: 992px) {
-    .hero-title {
-        font-size: 2rem;
-    }
-}
-/* Large devices adjustments */
-
-/* ======================
-    new-card styles 
-========================*/
+/* NEW section card styles */
 .new-card {
-    padding: 40px;
-    /* border: 3px solid blue;     */
+    padding: 40px;    
     transition: transform 0.3s;
     min-height: 200px;    
 }
 
-.side-card {
-    /* border: 2px solid green;   */
+.side-card {    
     background-color: rgba(248, 249, 250, 0.848);
     transition: transform 0.3s;
     min-height: 150px;
+}
+
+.row .side-card {
+    border: none;
+    box-shadow: none;
 }
 
 .new-card:hover {
@@ -371,36 +242,93 @@ header {
     /* transform: scale(1.05); */
 }
 
-.form-select {
-    border: 1px solid #151212;
-    border-radius: 5px;
-    padding: 12.5px;
+
+/*==========================
+    All image styles 
+==========================*/
+
+/* Navbar image styles */
+.navbar .nav-img { max-height: 48px; width: auto; display: block; }
+.navbar-brand img {
+    max-height: 50px; /* Adjust as needed */
+}
+
+/* Carousell image styles */
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
     width: 100%;
 }
 
-.form-select:focus {
-    border: 2px solid #1900ff;
-    box-shadow: 0 0 5px rgba(25, 0, 255, 0.5);
+.hero-carousel img {
+    filter: brightness(60%);
 }
 
-.form-option {
-    padding: 6px;
-    border: 1px solid black;
-    border-radius: 5px;
-    font-size: 1rem;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.hero-carousel .carousel-item img {
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    object-fit: cover;
 }
 
-.form-option:focus {
-    border: 2px solid blue;
-    border-radius: 10px;
-
+/* Featured tools image styles */
+.img-tools {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transform: scale(0.5);
 }
 
+.img-tools-top {
+    max-width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;    
+}
+
+.c-img {
+    width: 100%;
+    height: 140px;
+    object-fit: contain;
+}
+
+.pig {
+    transform: scale(1);
+    width: 100%;
+        
+}
+
+#tools .img-wrapper {
+    width: 100%;  
+    height: 250px;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f5f5f5;    
+    object-fit: cover;
+}
+
+/* Brand images */
+.brand-img {
+    max-height: 45px;
+    width: 45px;
+}
+
+
+/*==========================
+    All Button Styles 
+==========================*/
+
+.btn-nav {
+    color: white;
+}
+
+/* NEW button styles */
 .form-btn {
     border: 1px solid black; 
     border-radius: 20px; 
-    padding: 0.4rem 1.2rem; 
+    padding: 0.4rem 1.2rem;
     background-color: black; 
     color: white;
     font-size: 1.1rem;
@@ -413,12 +341,167 @@ header {
     background-color: white; 
     color: black;
     font-size: 1.2rem;
-    font-weight: 400;    
+    font-weight: bold;    
 }
 
 .signup-btn:hover {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.btn-group .brand-btn {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-group .brand-btn:hover,
+.btn-group .brand-btn:focus {
+    background-color: black;
+    color: white;   
+}
+
+/* Persistent active state */
+.btn-group .brand-btn.active {
     background-color: black;
     color: white;
+    border-color: black;
+}
+
+.brand-text {
+    font-size: 0.8rem;;
+    font-weight: 500;
+    opacity: 60%;
+}
+
+.btn .drop-btn:hover {
+    background-color: white;
+    color: black;
+    border: 4px solid black;
+}
+
+.drop-btn {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;;
+    color: black;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0.4rem 1.2rem;
+    /* transition: background-color 0.3s; */
+}
+
+.drop-btn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Featured tools Button styles */
+#tools .btn-tool {
+  background-color: black;
+  border: 2px solid black;
+  border-radius: 20px;
+  color: white;
+  padding: 0.4rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/*=========================
+    All Container styles
+=========================*/
+
+/* Search styles */
+.search-container {
+    position: relative;
+    flex-grow: 1;
+}
+
+.search-container i {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #aaa;
+}
+
+.search-container input {
+    padding-left: 35px;
+    width: 100%;
+}
+
+.hero-search {
+    width: 400px;
+}
+
+
+/*====================
+    Icon styles 
+====================*/
+.icon {
+    font-size: 3rem;
+    color: #3e07e2;
+    transform: scale(1.2);
+}
+
+.icon::before {
+    z-index: 1;
+}
+
+.brand-section {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding: 80px 80px;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.brand-section-title {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+/* FEATURED TOOLS section improvements */
+#tools .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/*===========================
+    NEW section styles   
+=============================*/
+.form-select {
+    border: 1px solid #151212;
+    border-radius: 5px;
+    padding: 12.5px;
+    width: 100%;
+}
+
+.form-select:focus {
+    border: 2px solid black;
+    box-shadow: 0 0 5px rgba(25, 0, 255, 0.5);
+}
+
+.form-option {
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-option:focus {
+    border: 2px solid black;
+    border-radius: 10px;
+
 }
 
 .form-badge {
@@ -440,21 +523,17 @@ input::placeholder {
     font-style: italic;
 }
 
-
-/*====================
-    Switch input 
-=====================*/
-
+/* Switch input */
 .form-check-input {
     transform: scale(1.5);
 }
+
 /* Switch background when checked */
 .form-check-input:checked {
   background-color: black;
   border-color: black;
 }
 
-/* Optional: make the toggle circle white for contrast */
 .form-check-input:checked::before {
   background-color: grey;
   border-color: black;
@@ -465,13 +544,10 @@ input::placeholder {
   border-color: black;
 }
 
-.row .side-card {
-    border: none;
-    box-shadow: none;
-}
+
 
 /*=======================
-        Extra css
+        Nav Collapse
 ========================= */
 .collapse {
   &:not(.show) {
@@ -489,4 +565,157 @@ input::placeholder {
     height: auto;
     @include transition($transition-collapse-width);
   }
+}
+
+@media (max-width: 991.98px) {
+    .navbar .navbar-collapse {
+        width: 100%;
+    }
+}
+@media (max-width: 767.98px) {
+    .nav-search-bar {
+        display: none !important;
+    }
+}
+
+/*========================
+    All Media Queries 
+========================*/
+
+/* On tablets and below */
+@media (max-width: 992px) {
+    .hero-search { 
+        width: 100%; max-width: 320px; 
+    }
+
+    .hero-title {
+        font-size: 2rem;
+    }
+
+    #tools .c-img {
+    max-height: 180px;
+    }
+
+    .nav-search-bar {
+        width: 100%;
+    }
+}
+
+
+/* MOBILE adjustments */
+@media (max-width: 768px) {
+
+    /* Header Section */
+    .header {
+        flex-direction: column;
+        padding: 0.5rem 1rem;
+    }
+
+    .header .container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    /* Logo centered */
+    .nav-logo {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .nav-logo img {
+        max-width: 120px; /* Shrinks logo for small screens */
+        height: auto;
+    }
+
+    /* Nav links become vertical */
+    #navBarNav {
+        flex-direction: column;
+        gap: 0.5rem;
+        width: 100%;
+        padding: 0;
+    }
+    #navBarNav .nav-item {
+        text-align: left;
+        width: 100%;
+    }
+
+    .nav-search-bar .nav-search {
+        width: 40%;
+        margin-top: 10px;
+        border: 1px solid black;
+        border-radius: 20px;
+    }
+
+    /* Hero section */
+    .hero-title { 
+        font-size: 1.5rem; 
+    }
+    .hero-search { 
+        width: 100%; 
+        max-width: 280px; 
+    }
+
+    .hero-title {
+        font-size: 1.8rem;
+    }
+    .hero-content {
+        padding: 0 15px;
+    }
+
+    .hero-buttons .btn {
+        margin: 5px 0;
+    }
+
+    /* Container */
+    .search-container {
+        width: 100%;
+    }
+
+    .search-container {
+        width: 80%;        
+    }
+
+    /* Signup button below search */
+    .signup {
+        margin-top: 0.5rem;
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    .btn-tool {
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 0.25rem;
+        background-color: #007bff;
+        color: white;
+        cursor: pointer;
+
+        &:hover {
+            background-color: darken(#007bff, 5%);
+        }
+    }
+
+    .card-text {
+        font-size: 1.2rem;
+    }
+    
+    /* Featured tools */
+    #tools .row {
+        gap: 1rem;
+    }
+
+    #tools .tool-card {
+        transform: none;
+        margin-bottom: 1rem;
+    }
+
+    #tools .c-img {
+    max-height: 150px;
+    }
+
+    .brand-card {
+    flex: 0 0 45%;
+    max-width: 45%;
+    }
 }
