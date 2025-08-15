@@ -1,0 +1,3394 @@
+2025-08-15 12:34:00:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:01:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:03:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:04:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:06:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:11:
+
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Alfa Romeo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Alfa_Romeo.png" alt="Alfa Romeo" class="brand-img">
+          <span class="mx-3 brand-span">Alfa Romeo</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Buick">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Buick.png" alt="Buick" class="brand-img">
+          <span class="mx-3 brand-span">Buick</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Cadillac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Cadillac.png" alt="Cadillac" class="brand-img">
+          <span class="mx-3 brand-span">Cadillac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chrysler">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chrysler.png" alt="Chrysler" class="brand-img">
+          <span class="mx-3 brand-span">Chrysler</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="FIAT">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/FIAT.png" alt="FIAT" class="brand-img">
+          <span class="mx-3 brand-span">FIAT</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Genesis">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Genesis.png" alt="Genesis" class="brand-img">
+          <span class="mx-3 brand-span">Genesis</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="GMC">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/GMC.png" alt="GMC" class="brand-img">
+          <span class="mx-3 brand-span">GMC</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="INFINITI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/INFINITI.png" alt="INFINITI" class="brand-img">
+          <span class="mx-3 brand-span">INFINITI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jaguar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jaguar.png" alt="Jaguar" class="brand-img">
+          <span class="mx-3 brand-span">Jaguar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jeep">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jeep.png" alt="Jeep" class="brand-img">
+          <span class="mx-3 brand-span">Jeep</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Land Rover">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Land_Rover.png" alt="Land Rover" class="brand-img">
+          <span class="mx-3 brand-span">Land Rover</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maserati">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maserati.png" alt="Maserati" class="brand-img">
+          <span class="mx-3 brand-span">Maserati</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mazda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mazda.png" alt="Mazda" class="brand-img">
+          <span class="mx-3 brand-span">Mazda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="MINI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/MINI.png" alt="MINI" class="brand-img">
+          <span class="mx-3 brand-span">MINI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mitsubishi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mitsubishi.png" alt="Mitsubishi" class="brand-img">
+          <span class="mx-3 brand-span">Mitsubishi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Nissan">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Nissan.png" alt="Nissan" class="brand-img">
+          <span class="mx-3 brand-span">Nissan</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Porsche">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Porsche.png" alt="Porsche" class="brand-img">
+          <span class="mx-3 brand-span">Porsche</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ram">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ram.png" alt="Ram" class="brand-img">
+          <span class="mx-3 brand-span">Ram</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Subaru">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Subaru.png" alt="Subaru" class="brand-img">
+          <span class="mx-3 brand-span">Subaru</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="VinFast">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/VinFast.png" alt="VinFast" class="brand-img">
+          <span class="mx-3 brand-span">VinFast</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volkswagen">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volkswagen.png" alt="Volkswagen" class="brand-img">
+          <span class="mx-3 brand-span">Volkswagen</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volvo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volvo.png" alt="Volvo" class="brand-img">
+          <span class="mx-3 brand-span">Volvo</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:12:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 12:34:21:
+
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Alfa Romeo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Alfa_Romeo.png" alt="Alfa Romeo" class="brand-img">
+          <span class="mx-3 brand-span">Alfa Romeo</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Bentley">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Bentley.png" alt="Bentley" class="brand-img">
+          <span class="mx-3 brand-span">Bentley</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Buick">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Buick.png" alt="Buick" class="brand-img">
+          <span class="mx-3 brand-span">Buick</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Cadillac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Cadillac.png" alt="Cadillac" class="brand-img">
+          <span class="mx-3 brand-span">Cadillac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chrysler">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chrysler.png" alt="Chrysler" class="brand-img">
+          <span class="mx-3 brand-span">Chrysler</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="FIAT">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/FIAT.png" alt="FIAT" class="brand-img">
+          <span class="mx-3 brand-span">FIAT</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Genesis">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Genesis.png" alt="Genesis" class="brand-img">
+          <span class="mx-3 brand-span">Genesis</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="GMC">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/GMC.png" alt="GMC" class="brand-img">
+          <span class="mx-3 brand-span">GMC</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="INFINITI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/INFINITI.png" alt="INFINITI" class="brand-img">
+          <span class="mx-3 brand-span">INFINITI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jaguar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jaguar.png" alt="Jaguar" class="brand-img">
+          <span class="mx-3 brand-span">Jaguar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jeep">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jeep.png" alt="Jeep" class="brand-img">
+          <span class="mx-3 brand-span">Jeep</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Land Rover">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Land_Rover.png" alt="Land Rover" class="brand-img">
+          <span class="mx-3 brand-span">Land Rover</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lincoln">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lincoln.png" alt="Lincoln" class="brand-img">
+          <span class="mx-3 brand-span">Lincoln</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lotus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lotus.png" alt="Lotus" class="brand-img">
+          <span class="mx-3 brand-span">Lotus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lucid">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lucid.png" alt="Lucid" class="brand-img">
+          <span class="mx-3 brand-span">Lucid</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maserati">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maserati.png" alt="Maserati" class="brand-img">
+          <span class="mx-3 brand-span">Maserati</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maybach">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maybach.png" alt="Maybach" class="brand-img">
+          <span class="mx-3 brand-span">Maybach</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mazda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mazda.png" alt="Mazda" class="brand-img">
+          <span class="mx-3 brand-span">Mazda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="McLaren">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/McLaren.png" alt="McLaren" class="brand-img">
+          <span class="mx-3 brand-span">McLaren</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercury">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercury.png" alt="Mercury" class="brand-img">
+          <span class="mx-3 brand-span">Mercury</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="MINI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/MINI.png" alt="MINI" class="brand-img">
+          <span class="mx-3 brand-span">MINI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mitsubishi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mitsubishi.png" alt="Mitsubishi" class="brand-img">
+          <span class="mx-3 brand-span">Mitsubishi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Nissan">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Nissan.png" alt="Nissan" class="brand-img">
+          <span class="mx-3 brand-span">Nissan</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Oldsmobile">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Oldsmobile.png" alt="Oldsmobile" class="brand-img">
+          <span class="mx-3 brand-span">Oldsmobile</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Panoz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Panoz.png" alt="Panoz" class="brand-img">
+          <span class="mx-3 brand-span">Panoz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Plymouth">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Plymouth.png" alt="Plymouth" class="brand-img">
+          <span class="mx-3 brand-span">Plymouth</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Polestar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Polestar.png" alt="Polestar" class="brand-img">
+          <span class="mx-3 brand-span">Polestar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Pontiac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Pontiac.png" alt="Pontiac" class="brand-img">
+          <span class="mx-3 brand-span">Pontiac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Porsche">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Porsche.png" alt="Porsche" class="brand-img">
+          <span class="mx-3 brand-span">Porsche</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ram">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ram.png" alt="Ram" class="brand-img">
+          <span class="mx-3 brand-span">Ram</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Rivian">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Rivian.png" alt="Rivian" class="brand-img">
+          <span class="mx-3 brand-span">Rivian</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Rolls-Royce">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Rolls-Royce.png" alt="Rolls-Royce" class="brand-img">
+          <span class="mx-3 brand-span">Rolls-Royce</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Saab">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Saab.png" alt="Saab" class="brand-img">
+          <span class="mx-3 brand-span">Saab</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Saturn">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Saturn.png" alt="Saturn" class="brand-img">
+          <span class="mx-3 brand-span">Saturn</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Scion">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Scion.png" alt="Scion" class="brand-img">
+          <span class="mx-3 brand-span">Scion</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="smart">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/smart.png" alt="smart" class="brand-img">
+          <span class="mx-3 brand-span">smart</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Subaru">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Subaru.png" alt="Subaru" class="brand-img">
+          <span class="mx-3 brand-span">Subaru</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="VinFast">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/VinFast.png" alt="VinFast" class="brand-img">
+          <span class="mx-3 brand-span">VinFast</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volkswagen">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volkswagen.png" alt="Volkswagen" class="brand-img">
+          <span class="mx-3 brand-span">Volkswagen</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volvo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volvo.png" alt="Volvo" class="brand-img">
+          <span class="mx-3 brand-span">Volvo</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:14:10:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:14:11:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:30:35:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:30:37:
+
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Alfa Romeo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Alfa_Romeo.png" alt="Alfa Romeo" class="brand-img">
+          <span class="mx-3 brand-span">Alfa Romeo</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Buick">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Buick.png" alt="Buick" class="brand-img">
+          <span class="mx-3 brand-span">Buick</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Cadillac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Cadillac.png" alt="Cadillac" class="brand-img">
+          <span class="mx-3 brand-span">Cadillac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chrysler">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chrysler.png" alt="Chrysler" class="brand-img">
+          <span class="mx-3 brand-span">Chrysler</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="FIAT">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/FIAT.png" alt="FIAT" class="brand-img">
+          <span class="mx-3 brand-span">FIAT</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Genesis">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Genesis.png" alt="Genesis" class="brand-img">
+          <span class="mx-3 brand-span">Genesis</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="GMC">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/GMC.png" alt="GMC" class="brand-img">
+          <span class="mx-3 brand-span">GMC</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="INFINITI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/INFINITI.png" alt="INFINITI" class="brand-img">
+          <span class="mx-3 brand-span">INFINITI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jaguar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jaguar.png" alt="Jaguar" class="brand-img">
+          <span class="mx-3 brand-span">Jaguar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jeep">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jeep.png" alt="Jeep" class="brand-img">
+          <span class="mx-3 brand-span">Jeep</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Land Rover">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Land_Rover.png" alt="Land Rover" class="brand-img">
+          <span class="mx-3 brand-span">Land Rover</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maserati">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maserati.png" alt="Maserati" class="brand-img">
+          <span class="mx-3 brand-span">Maserati</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mazda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mazda.png" alt="Mazda" class="brand-img">
+          <span class="mx-3 brand-span">Mazda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="MINI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/MINI.png" alt="MINI" class="brand-img">
+          <span class="mx-3 brand-span">MINI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mitsubishi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mitsubishi.png" alt="Mitsubishi" class="brand-img">
+          <span class="mx-3 brand-span">Mitsubishi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Nissan">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Nissan.png" alt="Nissan" class="brand-img">
+          <span class="mx-3 brand-span">Nissan</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Porsche">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Porsche.png" alt="Porsche" class="brand-img">
+          <span class="mx-3 brand-span">Porsche</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ram">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ram.png" alt="Ram" class="brand-img">
+          <span class="mx-3 brand-span">Ram</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Subaru">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Subaru.png" alt="Subaru" class="brand-img">
+          <span class="mx-3 brand-span">Subaru</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="VinFast">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/VinFast.png" alt="VinFast" class="brand-img">
+          <span class="mx-3 brand-span">VinFast</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volkswagen">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volkswagen.png" alt="Volkswagen" class="brand-img">
+          <span class="mx-3 brand-span">Volkswagen</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volvo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volvo.png" alt="Volvo" class="brand-img">
+          <span class="mx-3 brand-span">Volvo</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:30:39:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:11:
+
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Alfa Romeo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Alfa_Romeo.png" alt="Alfa Romeo" class="brand-img">
+          <span class="mx-3 brand-span">Alfa Romeo</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Bentley">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Bentley.png" alt="Bentley" class="brand-img">
+          <span class="mx-3 brand-span">Bentley</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Buick">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Buick.png" alt="Buick" class="brand-img">
+          <span class="mx-3 brand-span">Buick</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Cadillac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Cadillac.png" alt="Cadillac" class="brand-img">
+          <span class="mx-3 brand-span">Cadillac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chrysler">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chrysler.png" alt="Chrysler" class="brand-img">
+          <span class="mx-3 brand-span">Chrysler</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="FIAT">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/FIAT.png" alt="FIAT" class="brand-img">
+          <span class="mx-3 brand-span">FIAT</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Genesis">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Genesis.png" alt="Genesis" class="brand-img">
+          <span class="mx-3 brand-span">Genesis</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="GMC">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/GMC.png" alt="GMC" class="brand-img">
+          <span class="mx-3 brand-span">GMC</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="INFINITI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/INFINITI.png" alt="INFINITI" class="brand-img">
+          <span class="mx-3 brand-span">INFINITI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jaguar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jaguar.png" alt="Jaguar" class="brand-img">
+          <span class="mx-3 brand-span">Jaguar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jeep">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jeep.png" alt="Jeep" class="brand-img">
+          <span class="mx-3 brand-span">Jeep</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Land Rover">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Land_Rover.png" alt="Land Rover" class="brand-img">
+          <span class="mx-3 brand-span">Land Rover</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lincoln">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lincoln.png" alt="Lincoln" class="brand-img">
+          <span class="mx-3 brand-span">Lincoln</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lotus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lotus.png" alt="Lotus" class="brand-img">
+          <span class="mx-3 brand-span">Lotus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lucid">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lucid.png" alt="Lucid" class="brand-img">
+          <span class="mx-3 brand-span">Lucid</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maserati">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maserati.png" alt="Maserati" class="brand-img">
+          <span class="mx-3 brand-span">Maserati</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maybach">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maybach.png" alt="Maybach" class="brand-img">
+          <span class="mx-3 brand-span">Maybach</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mazda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mazda.png" alt="Mazda" class="brand-img">
+          <span class="mx-3 brand-span">Mazda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="McLaren">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/McLaren.png" alt="McLaren" class="brand-img">
+          <span class="mx-3 brand-span">McLaren</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercury">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercury.png" alt="Mercury" class="brand-img">
+          <span class="mx-3 brand-span">Mercury</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="MINI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/MINI.png" alt="MINI" class="brand-img">
+          <span class="mx-3 brand-span">MINI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mitsubishi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mitsubishi.png" alt="Mitsubishi" class="brand-img">
+          <span class="mx-3 brand-span">Mitsubishi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Nissan">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Nissan.png" alt="Nissan" class="brand-img">
+          <span class="mx-3 brand-span">Nissan</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Oldsmobile">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Oldsmobile.png" alt="Oldsmobile" class="brand-img">
+          <span class="mx-3 brand-span">Oldsmobile</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Panoz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Panoz.png" alt="Panoz" class="brand-img">
+          <span class="mx-3 brand-span">Panoz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Plymouth">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Plymouth.png" alt="Plymouth" class="brand-img">
+          <span class="mx-3 brand-span">Plymouth</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Polestar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Polestar.png" alt="Polestar" class="brand-img">
+          <span class="mx-3 brand-span">Polestar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Pontiac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Pontiac.png" alt="Pontiac" class="brand-img">
+          <span class="mx-3 brand-span">Pontiac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Porsche">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Porsche.png" alt="Porsche" class="brand-img">
+          <span class="mx-3 brand-span">Porsche</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ram">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ram.png" alt="Ram" class="brand-img">
+          <span class="mx-3 brand-span">Ram</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Rivian">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Rivian.png" alt="Rivian" class="brand-img">
+          <span class="mx-3 brand-span">Rivian</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Rolls-Royce">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Rolls-Royce.png" alt="Rolls-Royce" class="brand-img">
+          <span class="mx-3 brand-span">Rolls-Royce</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Saab">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Saab.png" alt="Saab" class="brand-img">
+          <span class="mx-3 brand-span">Saab</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Saturn">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Saturn.png" alt="Saturn" class="brand-img">
+          <span class="mx-3 brand-span">Saturn</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Scion">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Scion.png" alt="Scion" class="brand-img">
+          <span class="mx-3 brand-span">Scion</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="smart">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/smart.png" alt="smart" class="brand-img">
+          <span class="mx-3 brand-span">smart</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Subaru">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Subaru.png" alt="Subaru" class="brand-img">
+          <span class="mx-3 brand-span">Subaru</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="VinFast">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/VinFast.png" alt="VinFast" class="brand-img">
+          <span class="mx-3 brand-span">VinFast</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volkswagen">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volkswagen.png" alt="Volkswagen" class="brand-img">
+          <span class="mx-3 brand-span">Volkswagen</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volvo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volvo.png" alt="Volvo" class="brand-img">
+          <span class="mx-3 brand-span">Volvo</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:13:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:18:
+
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Alfa Romeo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Alfa_Romeo.png" alt="Alfa Romeo" class="brand-img">
+          <span class="mx-3 brand-span">Alfa Romeo</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Buick">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Buick.png" alt="Buick" class="brand-img">
+          <span class="mx-3 brand-span">Buick</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Cadillac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Cadillac.png" alt="Cadillac" class="brand-img">
+          <span class="mx-3 brand-span">Cadillac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chrysler">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chrysler.png" alt="Chrysler" class="brand-img">
+          <span class="mx-3 brand-span">Chrysler</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="FIAT">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/FIAT.png" alt="FIAT" class="brand-img">
+          <span class="mx-3 brand-span">FIAT</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Genesis">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Genesis.png" alt="Genesis" class="brand-img">
+          <span class="mx-3 brand-span">Genesis</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="GMC">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/GMC.png" alt="GMC" class="brand-img">
+          <span class="mx-3 brand-span">GMC</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="INFINITI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/INFINITI.png" alt="INFINITI" class="brand-img">
+          <span class="mx-3 brand-span">INFINITI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jaguar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jaguar.png" alt="Jaguar" class="brand-img">
+          <span class="mx-3 brand-span">Jaguar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jeep">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jeep.png" alt="Jeep" class="brand-img">
+          <span class="mx-3 brand-span">Jeep</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Land Rover">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Land_Rover.png" alt="Land Rover" class="brand-img">
+          <span class="mx-3 brand-span">Land Rover</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maserati">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maserati.png" alt="Maserati" class="brand-img">
+          <span class="mx-3 brand-span">Maserati</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mazda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mazda.png" alt="Mazda" class="brand-img">
+          <span class="mx-3 brand-span">Mazda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="MINI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/MINI.png" alt="MINI" class="brand-img">
+          <span class="mx-3 brand-span">MINI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mitsubishi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mitsubishi.png" alt="Mitsubishi" class="brand-img">
+          <span class="mx-3 brand-span">Mitsubishi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Nissan">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Nissan.png" alt="Nissan" class="brand-img">
+          <span class="mx-3 brand-span">Nissan</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Porsche">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Porsche.png" alt="Porsche" class="brand-img">
+          <span class="mx-3 brand-span">Porsche</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ram">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ram.png" alt="Ram" class="brand-img">
+          <span class="mx-3 brand-span">Ram</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Subaru">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Subaru.png" alt="Subaru" class="brand-img">
+          <span class="mx-3 brand-span">Subaru</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="VinFast">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/VinFast.png" alt="VinFast" class="brand-img">
+          <span class="mx-3 brand-span">VinFast</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volkswagen">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volkswagen.png" alt="Volkswagen" class="brand-img">
+          <span class="mx-3 brand-span">Volkswagen</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volvo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volvo.png" alt="Volvo" class="brand-img">
+          <span class="mx-3 brand-span">Volvo</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:20:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:22:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:23:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:31:26:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:39:38:
+
+          <div class="card col-2 text-center brand-card" data-name="Car 1"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car1.McLaren.jpg" alt="Car 1" class="brand-img"><span class="mx-3 brand-span">Car 1</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 2"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car2.jpg" alt="Car 2" class="brand-img"><span class="mx-3 brand-span">Car 2</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 2"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car2.jpg" alt="Car 2" class="brand-img"><span class="mx-3 brand-span">Car 2</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 1"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car1.McLaren.jpg" alt="Car 1" class="brand-img"><span class="mx-3 brand-span">Car 1</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 2"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car2.jpg" alt="Car 2" class="brand-img"><span class="mx-3 brand-span">Car 2</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 2"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car2.jpg" alt="Car 2" class="brand-img"><span class="mx-3 brand-span">Car 2</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 1"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car1.McLaren.jpg" alt="Car 1" class="brand-img"><span class="mx-3 brand-span">Car 1</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 2"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car2.jpg" alt="Car 2" class="brand-img"><span class="mx-3 brand-span">Car 2</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 1"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car1.McLaren.jpg" alt="Car 1" class="brand-img"><span class="mx-3 brand-span">Car 1</span></div></div><div class="card col-2 text-center brand-card" data-name="Car 2"><div class="card-body d-flex justify-content-center align-items-center"><img src="assets/img/cars/car2.jpg" alt="Car 2" class="brand-img"><span class="mx-3 brand-span">Car 2</span></div></div>        
+
+2025-08-15 13:39:40:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:39:41:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:39:43:
+
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Alfa Romeo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Alfa_Romeo.png" alt="Alfa Romeo" class="brand-img">
+          <span class="mx-3 brand-span">Alfa Romeo</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Bentley">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Bentley.png" alt="Bentley" class="brand-img">
+          <span class="mx-3 brand-span">Bentley</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Buick">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Buick.png" alt="Buick" class="brand-img">
+          <span class="mx-3 brand-span">Buick</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Cadillac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Cadillac.png" alt="Cadillac" class="brand-img">
+          <span class="mx-3 brand-span">Cadillac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chrysler">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chrysler.png" alt="Chrysler" class="brand-img">
+          <span class="mx-3 brand-span">Chrysler</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="FIAT">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/FIAT.png" alt="FIAT" class="brand-img">
+          <span class="mx-3 brand-span">FIAT</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Genesis">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Genesis.png" alt="Genesis" class="brand-img">
+          <span class="mx-3 brand-span">Genesis</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="GMC">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/GMC.png" alt="GMC" class="brand-img">
+          <span class="mx-3 brand-span">GMC</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="INFINITI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/INFINITI.png" alt="INFINITI" class="brand-img">
+          <span class="mx-3 brand-span">INFINITI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jaguar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jaguar.png" alt="Jaguar" class="brand-img">
+          <span class="mx-3 brand-span">Jaguar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Jeep">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Jeep.png" alt="Jeep" class="brand-img">
+          <span class="mx-3 brand-span">Jeep</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Land Rover">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Land_Rover.png" alt="Land Rover" class="brand-img">
+          <span class="mx-3 brand-span">Land Rover</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lincoln">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lincoln.png" alt="Lincoln" class="brand-img">
+          <span class="mx-3 brand-span">Lincoln</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lotus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lotus.png" alt="Lotus" class="brand-img">
+          <span class="mx-3 brand-span">Lotus</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lucid">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lucid.png" alt="Lucid" class="brand-img">
+          <span class="mx-3 brand-span">Lucid</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maserati">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maserati.png" alt="Maserati" class="brand-img">
+          <span class="mx-3 brand-span">Maserati</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Maybach">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Maybach.png" alt="Maybach" class="brand-img">
+          <span class="mx-3 brand-span">Maybach</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mazda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mazda.png" alt="Mazda" class="brand-img">
+          <span class="mx-3 brand-span">Mazda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="McLaren">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/McLaren.png" alt="McLaren" class="brand-img">
+          <span class="mx-3 brand-span">McLaren</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercury">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercury.png" alt="Mercury" class="brand-img">
+          <span class="mx-3 brand-span">Mercury</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="MINI">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/MINI.png" alt="MINI" class="brand-img">
+          <span class="mx-3 brand-span">MINI</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mitsubishi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mitsubishi.png" alt="Mitsubishi" class="brand-img">
+          <span class="mx-3 brand-span">Mitsubishi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Nissan">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Nissan.png" alt="Nissan" class="brand-img">
+          <span class="mx-3 brand-span">Nissan</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Oldsmobile">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Oldsmobile.png" alt="Oldsmobile" class="brand-img">
+          <span class="mx-3 brand-span">Oldsmobile</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Panoz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Panoz.png" alt="Panoz" class="brand-img">
+          <span class="mx-3 brand-span">Panoz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Plymouth">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Plymouth.png" alt="Plymouth" class="brand-img">
+          <span class="mx-3 brand-span">Plymouth</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Polestar">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Polestar.png" alt="Polestar" class="brand-img">
+          <span class="mx-3 brand-span">Polestar</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Pontiac">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Pontiac.png" alt="Pontiac" class="brand-img">
+          <span class="mx-3 brand-span">Pontiac</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Porsche">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Porsche.png" alt="Porsche" class="brand-img">
+          <span class="mx-3 brand-span">Porsche</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ram">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ram.png" alt="Ram" class="brand-img">
+          <span class="mx-3 brand-span">Ram</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Rivian">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Rivian.png" alt="Rivian" class="brand-img">
+          <span class="mx-3 brand-span">Rivian</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Rolls-Royce">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Rolls-Royce.png" alt="Rolls-Royce" class="brand-img">
+          <span class="mx-3 brand-span">Rolls-Royce</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Saab">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Saab.png" alt="Saab" class="brand-img">
+          <span class="mx-3 brand-span">Saab</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Saturn">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Saturn.png" alt="Saturn" class="brand-img">
+          <span class="mx-3 brand-span">Saturn</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Scion">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Scion.png" alt="Scion" class="brand-img">
+          <span class="mx-3 brand-span">Scion</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="smart">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/smart.png" alt="smart" class="brand-img">
+          <span class="mx-3 brand-span">smart</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Subaru">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Subaru.png" alt="Subaru" class="brand-img">
+          <span class="mx-3 brand-span">Subaru</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="VinFast">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/VinFast.png" alt="VinFast" class="brand-img">
+          <span class="mx-3 brand-span">VinFast</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volkswagen">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volkswagen.png" alt="Volkswagen" class="brand-img">
+          <span class="mx-3 brand-span">Volkswagen</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Volvo">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Volvo.png" alt="Volvo" class="brand-img">
+          <span class="mx-3 brand-span">Volvo</span>
+        </div>
+      </div>
+    
+
+2025-08-15 13:39:45:
+
+      <div class="card col-2 text-center brand-card" data-name="Toyota">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Toyota.png" alt="Toyota" class="brand-img">
+          <span class="mx-3 brand-span">Toyota</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="BMW">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/BMW.png" alt="BMW" class="brand-img">
+          <span class="mx-3 brand-span">BMW</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Chevrolet">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Chevrolet.png" alt="Chevrolet" class="brand-img">
+          <span class="mx-3 brand-span">Chevrolet</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Honda">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Honda.png" alt="Honda" class="brand-img">
+          <span class="mx-3 brand-span">Honda</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Ford">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Ford.png" alt="Ford" class="brand-img">
+          <span class="mx-3 brand-span">Ford</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Audi">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Audi.png" alt="Audi" class="brand-img">
+          <span class="mx-3 brand-span">Audi</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Acura">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Acura.png" alt="Acura" class="brand-img">
+          <span class="mx-3 brand-span">Acura</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Hyundai">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Hyundai.png" alt="Hyundai" class="brand-img">
+          <span class="mx-3 brand-span">Hyundai</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Dodge">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Dodge.png" alt="Dodge" class="brand-img">
+          <span class="mx-3 brand-span">Dodge</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Mercedes-Benz">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Mercedes-Benz.png" alt="Mercedes-Benz" class="brand-img">
+          <span class="mx-3 brand-span">Mercedes-Benz</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Kia">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Kia.png" alt="Kia" class="brand-img">
+          <span class="mx-3 brand-span">Kia</span>
+        </div>
+      </div>
+    
+      <div class="card col-2 text-center brand-card" data-name="Lexus">
+        <div class="card-body d-flex justify-content-center align-items-center">
+          <img src="assets/img/brand-imgs/Lexus.png" alt="Lexus" class="brand-img">
+          <span class="mx-3 brand-span">Lexus</span>
+        </div>
+      </div>
+    
+
